@@ -6,7 +6,7 @@ export const complianceDocuments = {
       { name: 'weburl', id: 2, desc: 'Web URL/Social Media page' },
       { name: 'physicalAddress', id: 3, desc: 'Residential address' },
       { name: 'bvn', id: 4, desc: 'Personal bank account details' },
-      { name: 'bvn', id: 5, desc: 'Estimated Monthly Sales' },
+      { name: 'bvn', id: 5, desxc: 'Estimated Monthly Sales' },
     ],
     business: [
       { desc: 'Directors IDs & BVN' },
